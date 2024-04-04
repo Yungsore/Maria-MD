@@ -4,22 +4,22 @@ const chalk = require('chalk')
 //contact details
 global.ownernumber = ['08105423421']
 global.ownername = "YungSorex"//owner name
-global.ytname = "YT: AyushBotz.inc"
+global.ytname = "YT: YungSorex"
 global.socialm = "GitHub: YungSorex"
 global.location = "Nigeria"
 
 global.botname = 'YUNG BOT//name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = '💙𓆩‎✘yungsorex'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'yungsorex'
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "yu9."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
+global.link = 'https://whatsapp.com/channel/'
 
 //custom prefix
 global.prefa = ['.']
@@ -27,7 +27,7 @@ global.prefa = ['.']
 //false=disable and true=enable
 global.welcome = false //auto welcome
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
