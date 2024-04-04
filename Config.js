@@ -11,7 +11,7 @@ global.location = "Nigeria"
 global.botname = 'YUNG BOT//name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = '💙𓆩‎✘YungSorex𓆪_✰'
 global.packname = 'Sticker By'
 global.author = 'Maria Bot'
 //console view/theme
